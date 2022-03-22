@@ -22,4 +22,4 @@ The standard parameters are:
 
 For full documentation, please refer to [Camera characterization Documentation](https://github.com/NHL-B/Camera-characterization-using-Python/tree/main/Camera%20characterization%20Documentation)
 
-Procedure
+Procedure test
