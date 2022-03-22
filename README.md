@@ -2,7 +2,7 @@
 > ### *A simple, though effective measurement method based on EMVA Standard 1288*
 
 ### Introduction
-
+***
 
 ### EMVA Standard 1288
 
