@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar  3 09:10:52 2022
+=========================
+Dark current, Read noise
+=========================
 
 This code is used to characterize image sensors and cameras. More specifically, it focuses on two main parameters, dark current and read noise.
 To do so, it calculates the mean value and the standard deviation from averaged and subtracted dark frames for each exposure times and then create plots from these values.
 It also contains a function called 'histRoutine' that displays histograms.
-
-@author: BELGHERZ
 """
 
 # Import required libraries

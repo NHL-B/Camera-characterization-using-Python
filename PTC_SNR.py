@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 20 15:58:17 2022
+=========
+PTC, SNR
+=========
 
 This code is used to characterize image sensors and cameras. More specifically, it focuses on two main parameters: firstly, the PTC (Photon Transfer Curve) 
 which allows us to calculate the Gain of the camera in e-/ADU, the FWC (Full Well Capacity) in e- and the Dynamic Range in dB or bit; secondly, the SNR (Signal to Noise Ratio) 
 which is essentially the ratio of the measured signal to the overall measured noise on a pixel.
-
-@author: BELGHERZ
 """
 
 # Import required libraries
