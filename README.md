@@ -1,5 +1,5 @@
 # Camera-characterization-using-Python 
-> #### *These codes based on EMVA Standard 1288 are intended to facilitate the characterization of cameras and image sensors.*
+> #### *These codes, based on EMVA Standard 1288, are intended to facilitate the characterization of cameras and image sensors.*
 
 ## EMVA Standard 1288
 ![EMVA](https://user-images.githubusercontent.com/92443490/159484319-394a24ef-433c-4ce3-9343-60d90512708f.png)
