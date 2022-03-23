@@ -14,11 +14,12 @@ This standard illustrates the fundamental parameters that must be given to fully
 The standard parameters are:
 - Dark current [ADU/s]
 - Quantum efficiency [%]
-- Read noise [e-]
+- Readout noise [e-]
 - Gain [ADU/e-]
 - Signal-to-noise ratio (SNR) [dB]
 - Dynamic range (DR) [dB]
-- Saturation capacity [e-] 
+- Saturation (full-well) capacity [e-] 
+- Photo-Response Non-Uniformity (PRNU) [%]
 
 For full documentation, please refer to [Camera characterization Documentation](https://github.com/NHL-B/Camera-characterization-using-Python/tree/main/Camera%20characterization%20Documentation)
 
