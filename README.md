@@ -24,6 +24,8 @@ For full documentation, please refer to [Camera characterization Documentation](
 
 Procedure test
 
+[Requirements](requirements.txt): A list of Python libraries you'll need for this project.
+
 ## License & copyright
 © NHL-B
 Licensed under the [MIT License](LICENSE).
