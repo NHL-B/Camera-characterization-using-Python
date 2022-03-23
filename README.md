@@ -1,5 +1,5 @@
 # Camera-characterization-using-Python 
-> #### *A simple, though effective measurement method based on EMVA Standard 1288*
+> #### *These codes based on EMVA Standard 1288 are intended to facilitate the characterization of cameras and image sensors.*
 
 ## EMVA Standard 1288
 ![EMVA](https://user-images.githubusercontent.com/92443490/159484319-394a24ef-433c-4ce3-9343-60d90512708f.png)
@@ -14,12 +14,13 @@ This standard illustrates the fundamental parameters that must be given to fully
 The standard parameters are:
 - Dark current [ADU/s]
 - Quantum efficiency [%]
-- Readout noise [e-]
+- Read noise [e-]
 - Gain [ADU/e-]
 - Signal-to-noise ratio (SNR) [dB]
 - Dynamic range (DR) [dB]
 - Saturation (full-well) capacity [e-] 
 - Photo-Response Non-Uniformity (PRNU) [%]
+- Dark Signal Non-Uniformity (DSNU) [e-] 
 
 For full documentation, please refer to [Camera characterization Documentation](https://github.com/NHL-B/Camera-characterization-using-Python/tree/main/Camera%20characterization%20Documentation)
 
