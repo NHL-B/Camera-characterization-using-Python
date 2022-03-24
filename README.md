@@ -12,10 +12,10 @@ I would highly recommend that you carefully read and understand this document be
 This standard illustrates the fundamental parameters that must be given to fully describe the real behavior of a sensor, together with the well-defined measurement methods to get these parameters. 
 
 The standard parameters are:
-- Dark current [ADU/s]
-- Quantum efficiency [%]
-- Read noise [e-]
-- Gain [ADU/e-]
+- Dark current (DC) [ADU/s]
+- Quantum efficiency (QE) [%]
+- Read noise (RON) [e-]
+- Gain (K) [ADU/e-]
 - Signal-to-noise ratio (SNR) [dB]
 - Dynamic range (DR) [dB]
 - Saturation (full-well) capacity [e-] 
