@@ -24,6 +24,11 @@ The standard parameters are:
 
 For full documentation, please refer to [Camera characterization Documentation](https://github.com/NHL-B/Camera-characterization-using-Python/tree/main/Camera%20characterization%20Documentation)
 
+For the time being, QE, PRNU and DSNU are not discussed here. 
+
+The results of these tests will give you quantifiable information about the state of your current camera as well as providing a method to compare 
+cameras, which may be valuable if you’re in the process of making a decision for a new purchase.
+
 Procedure test
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
