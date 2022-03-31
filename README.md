@@ -30,6 +30,7 @@ The results of these tests will give you quantifiable information about the stat
 cameras, which may be valuable if you’re in the process of making a decision for a new purchase.
 
 ![Plots](https://github.com/NHL-B/Camera-characterization-using-Python/blob/main/Camera%20characterization%20Documentation/images/Plots.png)
+This image gives you an idea of the kind of results you can get with these codes. These tests have been performed on a CMOS camera (model: Basler acA1920-40gm) 
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
 
