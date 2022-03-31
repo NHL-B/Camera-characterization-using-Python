@@ -29,7 +29,7 @@ For the time being, QE, PRNU and DSNU are not discussed here.
 The results of these tests will give you quantifiable information about the state of your current camera as well as providing a method to compare 
 cameras, which may be valuable if you’re in the process of making a decision for a new purchase.
 
-![](images/Plots.png)
+![](Camera-characterization-using-Python/Camera%20characterization%20Documentation/images/Plots.png)
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
 
