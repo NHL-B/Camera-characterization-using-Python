@@ -42,7 +42,7 @@ This image gives you an idea of the kind of results you can get with these codes
 
 ## Additional links
 
-[EMVA](https://www.emva.org/"EMVA - European Machine Vision Association") • [Camera Test Protocol w/ ImageJ](https://www.photometrics.com/wp-content/uploads/2019/10/Technical-Notes-Camera-Test-Protocol-November-2019.pdf"Camera Test Protocol")
+[EMVA](https://www.emva.org/ "EMVA - European Machine Vision Association") • [Camera Test Protocol w/ ImageJ](https://www.photometrics.com/wp-content/uploads/2019/10/Technical-Notes-Camera-Test-Protocol-November-2019.pdf "Camera Test Protocol")
 
 ## License & copyright
 © NHL-B
