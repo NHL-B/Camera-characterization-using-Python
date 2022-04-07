@@ -1,9 +1,4 @@
-<p align="center">
-
-  # Camera-characterization-using-Python 
-  
-</p>  
-   
+# Camera-characterization-using-Python 
 > #### *These codes, based on EMVA Standard 1288, are intended to facilitate the characterization of cameras and image sensors.*
 
 ## EMVA Standard 1288
@@ -44,6 +39,10 @@ This image gives you an idea of the kind of results you can get with these codes
 - Clone to disk in a stable path, such as C or your user folder
 - Edit the scripts to your liking
 - If you find any problems or want to suggest modifications, create an issue.
+
+## Additional links
+
+[EMVA](https://www.emva.org/) • [Camera Test Protocol w/ ImageJ](https://www.photometrics.com/wp-content/uploads/2019/10/Technical-Notes-Camera-Test-Protocol-November-2019.pdf)
 
 ## License & copyright
 © NHL-B
