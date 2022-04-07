@@ -38,6 +38,7 @@ This image gives you an idea of the kind of results you can get with these codes
 - Fork this repo
 - Clone to disk in a stable path, such as C or your user folder
 - Edit the scripts to your liking
+- If you find any problems or want to suggest modifications, create an issue.
 
 ## License & copyright
 © NHL-B
