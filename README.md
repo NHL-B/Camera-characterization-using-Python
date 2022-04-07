@@ -34,7 +34,7 @@ This image gives you an idea of the kind of results you can get with these codes
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
 
-## To use:
+## To use
 - Fork this repo
 - Clone to disk in a stable path, such as C or your user folder
 - Edit the scripts to your liking
